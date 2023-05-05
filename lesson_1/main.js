@@ -13,3 +13,11 @@ var age = 20; //khai báo tuổi
 // gọi hàm thông báo
 alert(fullName);
 alert(age);
+
+/*
+Giới thiệu toán tử trong js
+1. toán tử số học - arithmetic
+2. toán tử gán - assignment
+3. toán tử so sánh - comparison
+4. toán tử logic - logiccal
+*/ 
